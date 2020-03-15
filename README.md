@@ -14,7 +14,7 @@ Clone the repository
         
 Change to the new directory which contains the repository
 
-        cd wyggles
+        cd spyral
 
 Create a Python 3 virtual environment called `env`
 
